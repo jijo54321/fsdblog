@@ -2,3 +2,11 @@
     text-align: center;
     margin-top: 30px;
 }
+.center{
+    text-align: left;
+    margin-top: 100px;
+}
+.color{
+    color: rgb(88, 18, 218);
+    font-size: large;
+}
