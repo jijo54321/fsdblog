@@ -10,3 +10,22 @@
     color: rgb(88, 18, 218);
     font-size: large;
 }
+.divmargin{
+    margin-top: 25px;
+    color: rgb(38, 38, 37);
+}
+.bottom-left {
+    position: absolute;
+    bottom: 8px;
+    left: 16px;
+}
+.digintohtml{
+    color: rgba(62, 148, 150, 0.828);
+    text-align: center;
+    font-family: sans-serif;
+    text-decoration: dashed;
+    font-size:x-large;
+}
+.imagealign{
+    text-align: center;
+}
