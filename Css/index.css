@@ -21,11 +21,16 @@
 }
 .digintohtml{
     color: rgba(62, 148, 150, 0.828);
+    
     text-align: center;
     font-family: sans-serif;
     text-decoration: dashed;
     font-size:x-large;
+    
 }
 .imagealign{
     text-align: center;
+}
+.underline{
+     background-color: aquamarine;
 }
