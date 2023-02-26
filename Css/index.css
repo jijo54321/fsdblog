@@ -34,3 +34,16 @@
 .underline{
      background-color: aquamarine;
 }
+.textligninpic{
+    text-align: justify;
+}
+.textligninpic3{
+    text-align: left;
+    color:blueviolet;
+    font-size: 30px;
+    background-color: azure;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border: 3px solid rgb(3, 3, 3);
+    padding: 10px;
+    border-width: medium
+}
